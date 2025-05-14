@@ -8,4 +8,4 @@ Here's a photo of a magpie.
 
 The source image in the repo contains GPS coordinates pointing to a car park in Manchester, England.
 
-![a photo of a magpie](/images/IMG_5118.jpeg)
+![a photo of a magpie]({{ "/images/IMG_5118.jpeg" | relative_url }})
